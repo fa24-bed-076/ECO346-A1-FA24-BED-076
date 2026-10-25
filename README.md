@@ -1,6 +1,6 @@
 # ECO346 Assignment 1: Education spending and literacy in rural Khyber Pakhtunkhwa
 
-**Name:** Uswah Zahid | **Reg. no.:** FA24-BED-076 | **Section:** B
+**Name:** Uswah Zahid | **Reg. no.:** FA24-BEDS-076 | **Section:** B
 
 ## Variant
 Last two digits 76 = 9 × 8 + 4, so **variant 4: Khyber Pakhtunkhwa, rural**
