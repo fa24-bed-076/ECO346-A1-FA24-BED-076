@@ -47,4 +47,4 @@ First, I plotted the weighted average literacy rate (a conditional mean) for eac
 ## Second language (Python)
 ![Python version](figures/literacy_python.svg)
 
-One difference between R and Python was how text was handled in SVG files. Matplotlib converts text into shapes by default, while R keeps it as text. I set svg. fonttype = "none" in Python, which made the output more consistent with R. The tables matched because both use the same weighted formula and the same left-closed age bands. For women aged 15-19, both reported a literacy rate of 52.6%, and all 22 rows agreed to one decimal place.   
+One difference between R and Python was how text was handled in SVG files. Matplotlib converts text into shapes by default, while R keeps it as text. I set svg.fonttype = "none" in Python, which made the output more consistent with R. The tables matched because both use the same weighted formula and the same left-closed age bands. For women aged 15-19, both reported a literacy rate of 52.6%, and all 22 rows agreed to one decimal place.   
